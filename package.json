@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@tensorflow/tfjs-node": "^4.10.0",
     "canvas": "^2.11.2",
+    "pngjs": "^7.0.0",
     "ts-node": "^10.9.1"
   }
 }
