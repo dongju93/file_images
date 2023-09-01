@@ -3,3 +3,4 @@ package-lock.json
 /files
 .DS_Store
 /*/**/.DS_Store
+file_into_images.js
