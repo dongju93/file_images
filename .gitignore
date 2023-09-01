@@ -1,6 +1,5 @@
 /node_modules
 package-lock.json
 /files
-file_into_images.js
 .DS_Store
 /*/**/.DS_Store
