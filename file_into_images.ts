@@ -20,7 +20,7 @@ fileNames.forEach((fileName) => {
     } else if (binaryData.length > targetSize) {
         binaryData = zlib.gzipSync(binaryData);
         // Optionally, you can then slice the compressed data to fit the target size
-        // binaryData = binaryData.slice(0, targetSize);
+        binaryData = binaryData.slice(0, targetSize);
     }
 
     const canvas = createCanvas(256, 256);
