@@ -7,4 +7,7 @@
 6️⃣ Determine malicious if it is above a certain similarity %, and not malicious if it is below.  - ⬜️  
 7️⃣ (option) Visualize the model training and results  - ⬜️
 
-- based on this [article](https://ieeexplore.ieee.org/document/8887303)
+< based on this [article](https://ieeexplore.ieee.org/document/8887303) >
+</br></br>
+
+#### Copyright 2023. ClumL Inc. all rights reserved
