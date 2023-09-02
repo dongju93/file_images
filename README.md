@@ -13,7 +13,7 @@
 [Pytorch](https://pytorch.org)
 ```
 // for run this code
-// open leaning.ipynb and select python version than click Run All
+// open pytorch_cnn.ipynb and select python version than click Run All
 
 // dependencys are required
 pip install torch torchvision Pillow matplotlib
@@ -22,7 +22,7 @@ pip install torch torchvision Pillow matplotlib
 [Tensorflow](https://www.tensorflow.org/)
 ```
 // for run this code excute command below
-node leaning.js
+node tensorflow_cnn.js
 
 // dependencys are required
 npm i @tensorflow/tfjs-node pngjs
