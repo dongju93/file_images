@@ -40,5 +40,3 @@ node tensorflow_cnn.js
 // dependencys are required
 npm i @tensorflow/tfjs-node pngjs
 ```
-
-#### Copyright 2023. ClumL Inc. all rights reserved
